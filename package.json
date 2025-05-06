@@ -1,0 +1,25 @@
+{
+  "name": "pms-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradipmahato98/pms-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradipmahato98/pms-backend/issues"
+  },
+  "homepage": "https://github.com/pradipmahato98/pms-backend#readme"
+}
